@@ -1,0 +1,12 @@
+{
+  "name": "context-os",
+  "version": "0.1.0",
+  "description": "Query and manage a Context OS knowledge base from your agent — ingest documents and URLs, run cited RAG queries, and reach guest-facing share surfaces. ContextLM.",
+  "author": {
+    "name": "ContextLM"
+  },
+  "homepage": "https://app.contextlm.top/help/api-access/agent-quickstart",
+  "keywords": ["knowledge-base", "rag", "mcp", "context-os", "contextlm"],
+  "license": "MIT",
+  "skills": "./skills"
+}
